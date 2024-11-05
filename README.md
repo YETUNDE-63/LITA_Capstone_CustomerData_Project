@@ -77,9 +77,10 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
 
 ### Key Insights
 ----------------
-- The Top performing product is Shoes Category
-- The South Region contributed the highest percentage of total sales
-- The month of February has the highest sales
+- The East Region is the Top 1 Region by Active Subscription
+- The North, South & West Regions are the 3 Top Regions by Cancelled Subscriptions
+- Basic Subscription is the Most Popular subscription
+- Out of 75,000 count of Subscriptions, 33,750 represents Cancelled Subscription, while 41,250 are still Active.
 
 ### Data Analysis
 -----------------
