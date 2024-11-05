@@ -110,8 +110,6 @@ https://wesabimarket-my.sharepoint.com/:x:/r/personal/yetunde_wesabimarket_com_n
 
 ### Data Visualization
 -----------------------
-https://wesabimarket-my.sharepoint.com/:x:/r/personal/yetunde_wesabimarket_com_ng/Documents/Desktop/LITA/LITA%20PROJECTS/LITA%20Capstone%20Dataset.xlsx?d=w6ee6388415b6421b878912be82ea23ba&csf=1&web=1&e=W9H5ht
-
 
 
 
