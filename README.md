@@ -13,13 +13,13 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
+[Key Insights](#key-insights)
+
 [Data Analysis](#data-analysis)
 
 [Links](#links)
 
 [Data Visualization](#data-visualization)
-
-[Key Insights](#key-insights)
 
 [Acknowledgement](#acknowledgement)
 
