@@ -67,15 +67,14 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
 ### Exploratory Data Analysis
 -----------------------------
 - EDA involved the exploring of the Data to answer some questions about the Data such as:
-  1. Which product is the top performing across the regions?
-  2. Wchich region contributed most to the sales?
-  3. What is the percentage of total sales contributed by each region?
-  4. What is the total revenue  by each region/product?
-  5. What is the average sales per product?
+  1. Which region is Top 1 by Active Subscription??
+  2. Wchich Subscription Type is the Most Popular?
+  3. What is the total number of Active Subscriptions?
+  4. What is the total number of Cancelled Subscriptions?
+  5.Which 3 Regions are the Top by Subscription Cancellation?
 
 ### Key Insights
 ----------------
-Some of the Sales Overview include:
 - The Top performing product is Shoes Category
 - The South Region contributed the highest percentage of total sales
 - The month of February has the highest sales
@@ -103,6 +102,12 @@ Some of the Sales Overview include:
    GROUP BY COLUMN1
    ORDER BY SUM(COLUMN2) DESC
    ~~~
+
+
+###Link
+-------
+![image](https://github.com/user-attachments/assets/245e70ee-5b35-48e0-bd77-ccd670eaa05f)
+
 
 ### Data Visualization
 -----------------------
