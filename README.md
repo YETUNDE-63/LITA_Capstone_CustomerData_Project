@@ -15,6 +15,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Links](#links)
+
 [Data Visualization](#data-visualization)
 
 [Key Insights](#key-insights)
@@ -122,6 +124,9 @@ https://wesabimarket-my.sharepoint.com/:x:/r/personal/yetunde_wesabimarket_com_n
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
+
+### Key Insights
+----------------
 
 
 
