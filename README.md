@@ -98,12 +98,14 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
 
 - Example 3:
    ~~~SQL
-   SELECT COLUMN1, 
-   SUM(COLUMN2 AS [ALAS], (SUM(COLUMN2)/(SELECT SUM(COLUMN2) FROM TABLE1) *100)
-   AS Percentage
-   from TABLE1
-   GROUP BY COLUMN1
-   ORDER BY SUM(COLUMN2) DESC
+   SELECT
+   TOP 1
+   COLUMN1,
+   COUNT(COLUMN1) AS
+ALIAS
+FROM TABLE
+GROUP BY COLUMN1
+ORDER BY COLUMN1 DESC
    ~~~
 
 
