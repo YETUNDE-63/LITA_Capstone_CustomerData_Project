@@ -105,7 +105,7 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
 ALIAS
 FROM TABLE
 GROUP BY COLUMN1
-ORDER BY COLUMN1 DESC
+ORDER BY COLUMN1 [AS ALIAS] DESC
    ~~~
 
 
