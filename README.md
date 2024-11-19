@@ -102,11 +102,11 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
    TOP 1
    COLUMN1,
    COUNT(COLUMN1) AS
-ALIAS
-FROM TABLE
-GROUP BY COLUMN1
-ORDER BY COLUMN1 [AS ALIAS] DESC
-   ~~~
+   ALIAS
+   FROM TABLE
+   GROUP BY COLUMN1
+   ORDER BY COLUMN1 [AS ALIAS] DESC
+  ~~~
 
 
 ### Links
