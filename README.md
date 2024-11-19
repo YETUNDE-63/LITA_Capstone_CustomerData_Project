@@ -70,10 +70,10 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
 -----------------------------
 - EDA involved the exploring of the Data to answer some questions about the Data such as:
   1. Which region is Top 1 by Active Subscription??
-  2. Wchich Subscription Type is the Most Popular?
+  2. Which Subscription Type is the Most Popular?
   3. What is the total number of Active Subscriptions?
   4. What is the total number of Cancelled Subscriptions?
-  5.Which 3 Regions are the Top by Subscription Cancellation?
+  5. Which 3 Regions are the Top by Subscription Cancellation?
 
 ### Key Insights
 ----------------
