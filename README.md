@@ -88,12 +88,12 @@ The dataset for this project was of LITA Capstone -CUSTOMERDATA.csv. This includ
   
   - Example 1:
     ~~~MS-EXCEL
-    =SUMIF(C2:C50001,C2:C7,H2:H50001)
+    = INDEX(D2:D75001,MODE(MATCH(D2:D75001,D2:D750001,0)))
     ~~~
 
  - Example 2:
    ~~~POWER BI
-   TopSalesProd = CONCATENATEX(TOPN(1, 'SalesData', [Sales]), [Product], )
+   Average of Sub_Duration = AVERAGE(CustomerData[SubscriptionDuration])
    ~~~
 
 - Example 3:
